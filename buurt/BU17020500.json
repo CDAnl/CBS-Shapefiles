@@ -1,1 +1,48 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"BU_CODE":"BU17020500","BU_NAAM":"Landhorst","WATER":"NEE","WK_CODE":"WK170205","GM_CODE":"GM1702","GM_NAAM":"Sint Anthonis","POSTCODE":5445,"DEK_PERC":1,"OAD":61,"STED":5,"AANT_INW":425,"AANT_MAN":225,"AANT_VROUW":200,"P_00_14_JR":19,"P_15_24_JR":9,"P_25_44_JR":25,"P_45_64_JR":27,"P_65_EO_JR":20,"P_ONGEHUWD":40,"P_GEHUWD":50,"P_GESCHEID":4,"P_VERWEDUW":6,"BEV_DICHTH":1661,"AANTAL_HH":165,"P_EENP_HH":23,"P_HH_Z_K":38,"P_HH_M_K":38,"GEM_HH_GR":2.5,"P_WEST_AL":4,"P_N_W_AL":0,"P_MAROKKO":-99999997,"P_ANT_ARU":-99999997,"P_SURINAM":-99999997,"P_TURKIJE":-99999997,"P_OVER_NW":-99999997,"AUTO_TOT":250,"AUTO_HH":1.5,"AUTO_LAND":978,"BEDR_AUTO":120,"MOTOR_2W":45,"OPP_TOT":25,"OPP_LAND":25,"OPP_WATER":0},"geometry":{"type":"Polygon","coordinates":[[[5.791815640957176,51.615880988943175],[5.789768139553776,51.61736769424708],[5.787764674082377,51.619282347974355],[5.794784801786119,51.621919639178174],[5.798303359007811,51.61876178624942],[5.791815640957176,51.615880988943175]]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BU17020500",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.789768139914794,
+              51.61794996248996
+            ],
+            [
+              5.787764673717378,
+              51.61986460655022
+            ],
+            [
+              5.794784802143136,
+              51.62250188504741
+            ],
+            [
+              5.798303359007811,
+              51.6193440477805
+            ],
+            [
+              5.79181564023116,
+              51.61646326389769
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        182706.921875,
+        402975.34375,
+        183437,
+        403648.21875
+      ]
+    }
+  ],
+  "bbox": [
+    182706.921875,
+    402975.34375,
+    183437,
+    403648.21875
+  ]
+}

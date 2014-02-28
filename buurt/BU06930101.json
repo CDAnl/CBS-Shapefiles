@@ -1,1 +1,44 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"BU_CODE":"BU06930101","BU_NAAM":"Gijbeland Kern","WATER":"NEE","WK_CODE":"WK069301","GM_CODE":"GM0693","GM_NAAM":"Graafstroom","POSTCODE":2974,"DEK_PERC":1,"OAD":203,"STED":5,"AANT_INW":635,"AANT_MAN":310,"AANT_VROUW":325,"P_00_14_JR":21,"P_15_24_JR":11,"P_25_44_JR":32,"P_45_64_JR":21,"P_65_EO_JR":15,"P_ONGEHUWD":46,"P_GEHUWD":44,"P_GESCHEID":5,"P_VERWEDUW":5,"BEV_DICHTH":1903,"AANTAL_HH":275,"P_EENP_HH":33,"P_HH_Z_K":33,"P_HH_M_K":34,"GEM_HH_GR":2.3,"P_WEST_AL":5,"P_N_W_AL":1,"P_MAROKKO":-99999997,"P_ANT_ARU":-99999997,"P_SURINAM":-99999997,"P_TURKIJE":-99999997,"P_OVER_NW":-99999997,"AUTO_TOT":295,"AUTO_HH":1.1,"AUTO_LAND":881,"BEDR_AUTO":35,"MOTOR_2W":35,"OPP_TOT":36,"OPP_LAND":33,"OPP_WATER":2},"geometry":{"type":"Polygon","coordinates":[[[4.816471951838167,51.87637158565955],[4.813640044722801,51.88056488755512],[4.822997940340873,51.88294218938485],[4.826179695576037,51.878945299136554],[4.8262049923365,51.87890047236857],[4.816471951838167,51.87637158565955]]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BU06930101",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.8136400441838845,
+              51.881145863574304
+            ],
+            [
+              4.822997940885555,
+              51.88352315396762
+            ],
+            [
+              4.8261796955760365,
+              51.879526283706696
+            ],
+            [
+              4.816471952388475,
+              51.87695258264906
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        115482.6015625,
+        432029.40625,
+        116344.5,
+        432756.8125
+      ]
+    }
+  ],
+  "bbox": [
+    115482.6015625,
+    432029.40625,
+    116344.5,
+    432756.8125
+  ]
+}

@@ -1,1 +1,44 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"BU_CODE":"BU05470007","BU_NAAM":"Binnenhof","WATER":"NEE","WK_CODE":"WK054700","GM_CODE":"GM0547","GM_NAAM":"Leiderdorp","POSTCODE":2353,"DEK_PERC":1,"OAD":2254,"STED":2,"AANT_INW":1410,"AANT_MAN":665,"AANT_VROUW":745,"P_00_14_JR":14,"P_15_24_JR":12,"P_25_44_JR":14,"P_45_64_JR":28,"P_65_EO_JR":32,"P_ONGEHUWD":32,"P_GEHUWD":52,"P_GESCHEID":7,"P_VERWEDUW":8,"BEV_DICHTH":6937,"AANTAL_HH":635,"P_EENP_HH":35,"P_HH_Z_K":35,"P_HH_M_K":31,"GEM_HH_GR":2.2,"P_WEST_AL":11,"P_N_W_AL":8,"P_MAROKKO":1,"P_ANT_ARU":0,"P_SURINAM":1,"P_TURKIJE":1,"P_OVER_NW":5,"AUTO_TOT":615,"AUTO_HH":1.0,"AUTO_LAND":3033,"BEDR_AUTO":15,"MOTOR_2W":35,"OPP_TOT":21,"OPP_LAND":20,"OPP_WATER":1},"geometry":{"type":"Polygon","coordinates":[[[4.532868186392658,52.16557399542858],[4.538535663319634,52.16854096980041],[4.54238749159665,52.165572633763276],[4.537007157597419,52.16278938670406],[4.532868186392658,52.16557399542858]]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BU05470007",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.53853566258875,
+              52.16912047677275
+            ],
+            [
+              4.542387490874327,
+              52.16615215573171
+            ],
+            [
+              4.537007157057921,
+              52.163368923150514
+            ],
+            [
+              4.532868185844557,
+              52.16615351784058
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        96526.3515625,
+        464078.59375,
+        97177.53125,
+        464717.1875
+      ]
+    }
+  ],
+  "bbox": [
+    96526.3515625,
+    464078.59375,
+    97177.53125,
+    464717.1875
+  ]
+}

@@ -1,1 +1,48 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"BU_CODE":"BU08280302","BU_NAAM":"Zeeheldenbuurt I","WATER":"NEE","WK_CODE":"WK082803","GM_CODE":"GM0828","GM_NAAM":"Oss","POSTCODE":5342,"DEK_PERC":1,"OAD":1187,"STED":3,"AANT_INW":635,"AANT_MAN":335,"AANT_VROUW":305,"P_00_14_JR":12,"P_15_24_JR":7,"P_25_44_JR":40,"P_45_64_JR":26,"P_65_EO_JR":14,"P_ONGEHUWD":49,"P_GEHUWD":32,"P_GESCHEID":13,"P_VERWEDUW":5,"BEV_DICHTH":6152,"AANTAL_HH":370,"P_EENP_HH":56,"P_HH_Z_K":25,"P_HH_M_K":19,"GEM_HH_GR":1.7,"P_WEST_AL":11,"P_N_W_AL":16,"P_MAROKKO":1,"P_ANT_ARU":1,"P_SURINAM":3,"P_TURKIJE":6,"P_OVER_NW":4,"AUTO_TOT":275,"AUTO_HH":0.7,"AUTO_LAND":2675,"BEDR_AUTO":30,"MOTOR_2W":30,"OPP_TOT":10,"OPP_LAND":10,"OPP_WATER":0},"geometry":{"type":"Polygon","coordinates":[[[5.540695786747015,51.76111552163576],[5.53756500184549,51.758502500789156],[5.533604607210983,51.76050204259551],[5.537026838284427,51.762356309265],[5.538223216703733,51.761764000118625],[5.540695786747015,51.76111552163576]]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BU08280302",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              5.537565001119697,
+              51.759084081991354
+            ],
+            [
+              5.53360460720953,
+              51.76108361396809
+            ],
+            [
+              5.537026838282941,
+              51.76293787152044
+            ],
+            [
+              5.53822321597938,
+              51.762345565737014
+            ],
+            [
+              5.54069578638332,
+              51.76169708999267
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        165076,
+        418773.59375,
+        165565.359375,
+        419202.21875
+      ]
+    }
+  ],
+  "bbox": [
+    165076,
+    418773.59375,
+    165565.359375,
+    419202.21875
+  ]
+}

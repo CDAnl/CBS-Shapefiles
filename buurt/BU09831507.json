@@ -1,1 +1,44 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"BU_CODE":"BU09831507","BU_NAAM":"Postwegflat","WATER":"NEE","WK_CODE":"WK098315","GM_CODE":"GM0983","GM_NAAM":"Venlo","POSTCODE":5915,"DEK_PERC":1,"OAD":804,"STED":4,"AANT_INW":170,"AANT_MAN":85,"AANT_VROUW":80,"P_00_14_JR":6,"P_15_24_JR":9,"P_25_44_JR":26,"P_45_64_JR":38,"P_65_EO_JR":21,"P_ONGEHUWD":48,"P_GEHUWD":22,"P_GESCHEID":24,"P_VERWEDUW":6,"BEV_DICHTH":7269,"AANTAL_HH":120,"P_EENP_HH":68,"P_HH_Z_K":20,"P_HH_M_K":11,"GEM_HH_GR":1.4,"P_WEST_AL":17,"P_N_W_AL":16,"P_MAROKKO":2,"P_ANT_ARU":2,"P_SURINAM":1,"P_TURKIJE":5,"P_OVER_NW":7,"AUTO_TOT":70,"AUTO_HH":0.6,"AUTO_LAND":3115,"BEDR_AUTO":0,"MOTOR_2W":0,"OPP_TOT":2,"OPP_LAND":2,"OPP_WATER":0},"geometry":{"type":"Polygon","coordinates":[[[6.197355346949016,51.36126922158607],[6.195753582684617,51.35961267005712],[6.194494005977167,51.36000617679963],[6.195365260109158,51.36152666737574],[6.197355346949016,51.36126922158607]]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "BU09831507",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              6.195753584104533,
+              51.36019615487974
+            ],
+            [
+              6.194493964529112,
+              51.36058977337163
+            ],
+            [
+              6.19536516937429,
+              51.36211008868113
+            ],
+            [
+              6.197355346949017,
+              51.36185269964347
+            ]
+          ]
+        ]
+      },
+      "bbox": [
+        211189.796875,
+        374702.5,
+        211387.5,
+        374915.09375
+      ]
+    }
+  ],
+  "bbox": [
+    211189.796875,
+    374702.5,
+    211387.5,
+    374915.09375
+  ]
+}
