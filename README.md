@@ -1,4 +1,4 @@
-![https://www.rijswijk.nl/sites/default/files/imagecache/x-small/cda-logo.png]
+![CDA Logo](https://www.rijswijk.nl/sites/default/files/imagecache/x-small/cda-logo.png)
 
 CBS-Shapefiles
 ==============
