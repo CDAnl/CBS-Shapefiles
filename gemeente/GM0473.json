@@ -3,6 +3,6 @@
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
                                                                                 
 "features": [
-{ "type": "Feature", "properties": { "Name": "GM0473 Zandvoort", "description": "GM0473 Zandvoort", "timestamp": null, "begin": null, "end": null, "altitudeMode": null, "tessellate": -1, "extrude": -1, "visibility": -1, "drawOrder": null, "icon": null }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.58345252567037, 52.393308671454903, 0.0 ], [ 4.59154022835347, 52.3917416308444, 0.0 ], [ 4.54719641179993, 52.3140135576445, 0.0 ], [ 4.49372386909236, 52.328246196751401, 0.0 ], [ 4.54164728481494, 52.401311549910595, 0.0 ], [ 4.58096636755811, 52.393789814060298, 0.0 ] ] ] } }
+{ "type": "Feature", "properties": { "Name": "GM0473 Zandvoort", "Description": "GM0473 Zandvoort" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.54128710898704, 52.400818234737002, 0.0 ], [ 4.49372386909236, 52.328246196751401, 0.0 ], [ 4.47751369809915, 52.332529866919799, 0.0 ], [ 4.49695917005518, 52.360202553435897, 0.0 ], [ 4.50088597639751, 52.367962656704599, 0.0 ], [ 4.52591534488699, 52.405194910530597, 0.0 ], [ 4.54164728481494, 52.401311549910595, 0.0 ] ] ] } }
 ]
 }
