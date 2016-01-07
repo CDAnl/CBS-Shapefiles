@@ -1,8 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU05050306 Jacob Catsstraat en omgeving", "Description": "BU05050306 Jacob Catsstraat en omgeving" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6624466004552, 51.806326759035798, 0.0 ], [ 4.66294164032703, 51.806048886813791, 0.0 ], [ 4.66395484169491, 51.803739998073603, 0.0 ], [ 4.658513863818249, 51.802301679255102, 0.0 ], [ 4.656174274596969, 51.805081811595599, 0.0 ], [ 4.661725157073099, 51.806451527456602, 0.0 ] ] ] } }
-]
-}
+{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"BU_CODE":"BU05050306","BU_NAAM":"Jacob Catsstraat en omgeving","WK_CODE":"WK050503","GM_CODE":"GM0505","GM_NAAM":"Dordrecht","IND_WBI":1,"WATER":"NEE","OAD":3310,"STED":1,"AANT_INW":1780,"AANT_MAN":925,"AANT_VROUW":855,"P_00_14_JR":19,"P_15_24_JR":12,"P_25_44_JR":34,"P_45_64_JR":27,"P_65_EO_JR":8,"P_ONGEHUWD":53,"P_GEHUWD":36,"P_GESCHEID":2,"P_VERWEDUW":9,"BEV_DICHTH":11884,"AANTAL_HH":815,"P_EENP_HH":42,"P_HH_Z_K":22,"P_HH_M_K":36,"GEM_HH_GR":2.2,"P_WEST_AL":15,"P_N_W_AL":25,"P_MAROKKO":3,"P_ANT_ARU":3,"P_SURINAM":2,"P_TURKIJE":12,"P_OVER_NW":5,"AO_UIT_TOT":100,"WW_UIT_TOT":50,"WWB_UITTOT":70,"A_SOZ_OW":140,"AUTO_TOT":655,"AUTO_HH":0.8,"AUTO_LAND":4370,"BEDR_AUTO":45,"MOTOR_2W":50,"A_LFTJ6J":120,"A_LFTO6J":535,"A_BST_B":540,"A_BST_NB":115,"OPP_TOT":15,"OPP_LAND":15,"OPP_WATER":0},"geometry":{"type":"Polygon","coordinates":[[[4.662161217763535,51.807439793087795],[4.662882696463621,51.80731519569105],[4.663377766413543,51.80703714386067],[4.664390930771122,51.80472830209376],[4.658949929980058,51.80329005505159],[4.656610377378516,51.806070052766245],[4.662161217763535,51.807439793087795]]]}}]}

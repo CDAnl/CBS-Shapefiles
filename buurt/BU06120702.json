@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU06120702 Groenewoud-Huur", "Description": "BU06120702 Groenewoud-Huur" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.34161602853788, 51.842309240150293, 0.0 ], [ 4.34143742319975, 51.839516803506491, 0.0 ], [ 4.33883456840615, 51.839399750150498, 0.0 ], [ 4.33897877704116, 51.842196660585699, 0.0 ] ] ] } }
-]
-}

@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU06930101 Gijbeland Kern", "Description": "BU06930101 Gijbeland Kern" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.81320393318152, 51.879576554107999, 0.0 ], [ 4.8225618298786, 51.881953856390801, 0.0 ], [ 4.82574358456795, 51.8779569661369, 0.0 ], [ 4.8160358413852, 51.875383252214597, 0.0 ] ] ] } }
-]
-}

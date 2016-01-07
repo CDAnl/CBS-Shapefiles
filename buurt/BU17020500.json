@@ -1,8 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU17020500 Landhorst", "Description": "BU17020500 Landhorst" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.78933202875999, 51.616379359980499, 0.0 ], [ 5.787328562564539, 51.618294013280192, 0.0 ], [ 5.79434869098515, 51.620931304511295, 0.0 ], [ 5.7978672478462, 51.617773452001799, 0.0 ], [ 5.791379529074369, 51.614892654215801, 0.0 ] ] ] } }
-]
-}
+{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"BU_CODE":"BU17020500","BU_NAAM":"Landhorst","WK_CODE":"WK170205","GM_CODE":"GM1702","GM_NAAM":"Sint Anthonis","IND_WBI":1,"WATER":"NEE","OAD":65,"STED":5,"AANT_INW":420,"AANT_MAN":225,"AANT_VROUW":195,"P_00_14_JR":17,"P_15_24_JR":9,"P_25_44_JR":23,"P_45_64_JR":29,"P_65_EO_JR":22,"P_ONGEHUWD":41,"P_GEHUWD":48,"P_GESCHEID":5,"P_VERWEDUW":5,"BEV_DICHTH":1665,"AANTAL_HH":180,"P_EENP_HH":27,"P_HH_Z_K":39,"P_HH_M_K":33,"GEM_HH_GR":2.4,"P_WEST_AL":4,"P_N_W_AL":1,"P_MAROKKO":0,"P_ANT_ARU":0,"P_SURINAM":0,"P_TURKIJE":0,"P_OVER_NW":1,"AO_UIT_TOT":20,"WW_UIT_TOT":10,"WWB_UITTOT":0,"A_SOZ_OW":90,"AUTO_TOT":270,"AUTO_HH":1.5,"AUTO_LAND":1064,"BEDR_AUTO":55,"MOTOR_2W":50,"A_LFTJ6J":40,"A_LFTO6J":230,"A_BST_B":210,"A_BST_NB":65,"OPP_TOT":25,"OPP_LAND":25,"OPP_WATER":0},"geometry":{"type":"Polygon","coordinates":[[[5.791815639919574,51.615880988368744],[5.789768139968207,51.61736769456658],[5.787764673044748,51.61928234739987],[5.794784802192553,51.621919638598726],[5.798303359422314,51.6187617865689],[5.791815639919574,51.615880988368744]]]}}]}

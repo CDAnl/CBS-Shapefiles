@@ -1,8 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU05050503 Indische Buurt-Noord", "Description": "BU05050503 Indische Buurt-Noord" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.6790121512334, 51.809884476792199, 0.0 ], [ 4.68197206247519, 51.811309478301197, 0.0 ], [ 4.68644522355735, 51.807435866547799, 0.0 ], [ 4.68545823970615, 51.806433512614802, 0.0 ], [ 4.6782954554018, 51.809130349240299, 0.0 ] ] ] } }
-]
-}
+{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"BU_CODE":"BU05050503","BU_NAAM":"Indische Buurt-Noord","WK_CODE":"WK050505","GM_CODE":"GM0505","GM_NAAM":"Dordrecht","IND_WBI":1,"WATER":"NEE","OAD":3008,"STED":1,"AANT_INW":1365,"AANT_MAN":655,"AANT_VROUW":705,"P_00_14_JR":17,"P_15_24_JR":18,"P_25_44_JR":22,"P_45_64_JR":31,"P_65_EO_JR":11,"P_ONGEHUWD":54,"P_GEHUWD":37,"P_GESCHEID":4,"P_VERWEDUW":6,"BEV_DICHTH":10222,"AANTAL_HH":610,"P_EENP_HH":41,"P_HH_Z_K":24,"P_HH_M_K":36,"GEM_HH_GR":2.2,"P_WEST_AL":11,"P_N_W_AL":18,"P_MAROKKO":1,"P_ANT_ARU":2,"P_SURINAM":2,"P_TURKIJE":11,"P_OVER_NW":3,"AO_UIT_TOT":40,"WW_UIT_TOT":20,"WWB_UITTOT":30,"A_SOZ_OW":150,"AUTO_TOT":480,"AUTO_HH":0.8,"AUTO_LAND":3594,"BEDR_AUTO":35,"MOTOR_2W":40,"A_LFTJ6J":165,"A_LFTO6J":315,"A_BST_B":385,"A_BST_NB":95,"OPP_TOT":13,"OPP_LAND":13,"OPP_WATER":0},"geometry":{"type":"Polygon","coordinates":[[[4.678731537011248,51.810118725128255],[4.679448301645037,51.81087274297005],[4.682408184199928,51.81229772407678],[4.68249819094907,51.81223762040965],[4.683376195654777,51.81147831477152],[4.685036959161344,51.80993928496784],[4.686881377896711,51.80842422939351],[4.685894333495353,51.80742186386338],[4.678731537011248,51.810118725128255]]]}}]}

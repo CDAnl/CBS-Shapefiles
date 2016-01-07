@@ -1,8 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU05050400 Pr. Bernhardstraat en omgeving", "Description": "BU05050400 Pr. Bernhardstraat en omgeving" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.668367698549, 51.8044879856634, 0.0 ], [ 4.67109812051652, 51.801373165479092, 0.0 ], [ 4.66810453765953, 51.799735013745895, 0.0 ], [ 4.66602251613526, 51.799135651248797, 0.0 ], [ 4.66395484169491, 51.803739998073603, 0.0 ] ] ] } }
-]
-}
+{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"BU_CODE":"BU05050400","BU_NAAM":"Pr. Bernhardstraat en omgeving","WK_CODE":"WK050504","GM_CODE":"GM0505","GM_NAAM":"Dordrecht","IND_WBI":1,"WATER":"NEE","OAD":3809,"STED":1,"AANT_INW":1805,"AANT_MAN":870,"AANT_VROUW":930,"P_00_14_JR":17,"P_15_24_JR":13,"P_25_44_JR":28,"P_45_64_JR":24,"P_65_EO_JR":18,"P_ONGEHUWD":49,"P_GEHUWD":39,"P_GESCHEID":5,"P_VERWEDUW":7,"BEV_DICHTH":10324,"AANTAL_HH":830,"P_EENP_HH":39,"P_HH_Z_K":25,"P_HH_M_K":36,"GEM_HH_GR":2.2,"P_WEST_AL":11,"P_N_W_AL":40,"P_MAROKKO":10,"P_ANT_ARU":4,"P_SURINAM":3,"P_TURKIJE":15,"P_OVER_NW":8,"AO_UIT_TOT":110,"WW_UIT_TOT":50,"WWB_UITTOT":100,"A_SOZ_OW":320,"AUTO_TOT":605,"AUTO_HH":0.7,"AUTO_LAND":3470,"BEDR_AUTO":25,"MOTOR_2W":25,"A_LFTJ6J":135,"A_LFTO6J":470,"A_BST_B":530,"A_BST_NB":75,"OPP_TOT":17,"OPP_LAND":17,"OPP_WATER":0},"geometry":{"type":"Polygon","coordinates":[[[4.664390930771122,51.80472830209376],[4.668803816981455,51.805476438194454],[4.671534184992483,51.80236136372835],[4.668540598342242,51.80072345020177],[4.667598594687815,51.80041046525086],[4.666458663944301,51.80012407925057],[4.665537217691752,51.80212085849474],[4.664390930771122,51.80472830209376]]]}}]}

@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU16720402 Woningen ten noorden van Dorpstraat en omgeving", "Description": "BU16720402 Woningen ten noorden van Dorpstraat en omgeving" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.55136745481376, 52.080998702249502, 0.0 ], [ 4.55152295829192, 52.078295368155203, 0.0 ], [ 4.54660312715551, 52.078583428928397, 0.0 ], [ 4.53783663107968, 52.077134482514197, 0.0 ], [ 4.53528297855874, 52.078239454251197, 0.0 ], [ 4.53066291933328, 52.080677233542794, 0.0 ], [ 4.53076765052322, 52.080756091403195, 0.0 ] ] ] } }
-]
-}

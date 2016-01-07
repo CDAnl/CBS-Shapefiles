@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU19040100 Duivenkamp, Pauwenkamp en Spechtenkamp", "Description": "BU19040100 Duivenkamp, Pauwenkamp en Spechtenkamp" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.02142652466248, 52.142591233488297, 0.0 ], [ 5.03814560254246, 52.132875265552492, 0.0 ], [ 5.03398123046914, 52.130620086981502, 0.0 ], [ 5.02731730037338, 52.127748707485601, 0.0 ], [ 5.01304095513354, 52.140919644968797, 0.0 ], [ 5.01383547173353, 52.14186461233399, 0.0 ], [ 5.01934023932212, 52.143855575782894, 0.0 ] ] ] } }
-]
-}

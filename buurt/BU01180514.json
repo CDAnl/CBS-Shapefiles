@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU01180514 Schoonvelde-Oost", "Description": "BU01180514 Schoonvelde-Oost" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 6.45857410551932, 52.725636798022002, 0.0 ], [ 6.464724416372219, 52.725703192727295, 0.0 ], [ 6.46479293322573, 52.719205500491903, 0.0 ], [ 6.45896786703422, 52.718658105628798, 0.0 ], [ 6.458465930814709, 52.725631030130799, 0.0 ] ] ] } }
-]
-}

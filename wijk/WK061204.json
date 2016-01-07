@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "WK061204 Wijk 04 Vierambachten", "Description": "WK061204 Wijk 04 Vierambachten" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.31815842567, 51.850276366926202, 0.0 ], [ 4.32065674946864, 51.848199913414902, 0.0 ], [ 4.31468816080186, 51.8465329400047, 0.0 ], [ 4.31224992971369, 51.846592952535403, 0.0 ], [ 4.31053246818727, 51.850774732258699, 0.0 ], [ 4.31736054234282, 51.851995751352092, 0.0 ] ] ] } }
-]
-}

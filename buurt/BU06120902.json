@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU06120902 Schenkel-Industrieterrein", "Description": "BU06120902 Schenkel-Industrieterrein" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.34243848584044, 51.848236500958002, 0.0 ], [ 4.33808158738619, 51.848165335496198, 0.0 ], [ 4.34111945924545, 51.849944659513895, 0.0 ], [ 4.34386269232198, 51.8482491678336, 0.0 ] ] ] } }
-]
-}

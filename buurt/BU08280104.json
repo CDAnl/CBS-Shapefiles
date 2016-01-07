@@ -1,8 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU08280104 Roofvogelbuurt", "Description": "BU08280104 Roofvogelbuurt" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.5530352016227, 51.766433358946401, 0.0 ], [ 5.54567818810257, 51.766263743863703, 0.0 ], [ 5.545609152903589, 51.770008519935999, 0.0 ], [ 5.55295682569386, 51.769687945179598, 0.0 ] ] ] } }
-]
-}
+{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"BU_CODE":"BU08280104","BU_NAAM":"Roofvogelbuurt","WK_CODE":"WK082801","GM_CODE":"GM0828","GM_NAAM":"Oss","IND_WBI":1,"WATER":"NEE","OAD":1043,"STED":3,"AANT_INW":1025,"AANT_MAN":500,"AANT_VROUW":520,"P_00_14_JR":15,"P_15_24_JR":14,"P_25_44_JR":31,"P_45_64_JR":25,"P_65_EO_JR":15,"P_ONGEHUWD":48,"P_GEHUWD":37,"P_GESCHEID":4,"P_VERWEDUW":10,"BEV_DICHTH":5200,"AANTAL_HH":475,"P_EENP_HH":38,"P_HH_Z_K":26,"P_HH_M_K":35,"GEM_HH_GR":2.1,"P_WEST_AL":12,"P_N_W_AL":19,"P_MAROKKO":1,"P_ANT_ARU":0,"P_SURINAM":0,"P_TURKIJE":11,"P_OVER_NW":6,"AO_UIT_TOT":80,"WW_UIT_TOT":40,"WWB_UITTOT":40,"A_SOZ_OW":150,"AUTO_TOT":445,"AUTO_HH":0.9,"AUTO_LAND":2253,"BEDR_AUTO":40,"MOTOR_2W":30,"A_LFTJ6J":80,"A_LFTO6J":365,"A_BST_B":380,"A_BST_NB":65,"OPP_TOT":20,"OPP_LAND":20,"OPP_WATER":0},"geometry":{"type":"Polygon","coordinates":[[[5.553392936488498,51.77067627880554],[5.553471312777443,51.767421692133865],[5.546114298895024,51.76725207705326],[5.546045263334314,51.770996853112926],[5.553392936488498,51.77067627880554]]]}}]}

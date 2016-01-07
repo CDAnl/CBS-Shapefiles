@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU02810008 Ridderweide en Tiel-West", "Description": "BU02810008 Ridderweide en Tiel-West" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 5.41582426918058, 51.885968364122398, 0.0 ], [ 5.41663998643638, 51.884813874500701, 0.0 ], [ 5.41910143277003, 51.885859647777799, 0.0 ], [ 5.42162445567061, 51.877641546841595, 0.0 ], [ 5.41306314262779, 51.876792564434695, 0.0 ], [ 5.39558735152804, 51.875665262618696, 0.0 ], [ 5.415754561307, 51.885932423710699, 0.0 ] ] ] } }
-]
-}

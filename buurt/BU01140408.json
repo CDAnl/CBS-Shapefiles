@@ -1,8 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU01140408 Limietweg", "Description": "BU01140408 Limietweg" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.05401555683854, 52.7711140301668, 0.0 ], [ 7.05953966700478, 52.771185487996199, 0.0 ], [ 7.05866312896688, 52.760836843663498, 0.0 ], [ 7.057620986970059, 52.760820002311398, 0.0 ], [ 7.05566078270187, 52.736857255265996, 0.0 ], [ 7.0512100185357, 52.736818418259297, 0.0 ] ] ] } }
-]
-}
+{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"BU_CODE":"BU01140408","BU_NAAM":"Limietweg","WK_CODE":"WK011404","GM_CODE":"GM0114","GM_NAAM":"Emmen","IND_WBI":1,"WATER":"NEE","OAD":52,"STED":5,"AANT_INW":125,"AANT_MAN":70,"AANT_VROUW":55,"P_00_14_JR":10,"P_15_24_JR":13,"P_25_44_JR":14,"P_45_64_JR":48,"P_65_EO_JR":15,"P_ONGEHUWD":35,"P_GEHUWD":55,"P_GESCHEID":5,"P_VERWEDUW":6,"BEV_DICHTH":105,"AANTAL_HH":50,"P_EENP_HH":28,"P_HH_Z_K":30,"P_HH_M_K":42,"GEM_HH_GR":2.4,"P_WEST_AL":5,"P_N_W_AL":3,"P_MAROKKO":0,"P_ANT_ARU":0,"P_SURINAM":3,"P_TURKIJE":0,"P_OVER_NW":0,"AO_UIT_TOT":10,"WW_UIT_TOT":10,"WWB_UITTOT":0,"A_SOZ_OW":20,"AUTO_TOT":95,"AUTO_HH":1.8,"AUTO_LAND":81,"BEDR_AUTO":10,"MOTOR_2W":10,"A_LFTJ6J":20,"A_LFTO6J":75,"A_BST_B":75,"A_BST_NB":20,"OPP_TOT":123,"OPP_LAND":120,"OPP_WATER":3},"geometry":{"type":"Polygon","coordinates":[[[7.05164610154885,52.737806970379644],[7.054451857944107,52.77210223357269],[7.059975653525628,52.77217399695952],[7.059099421206747,52.76182519088115],[7.058057007348046,52.761808506164854],[7.056096834835782,52.737845484198196],[7.05164610154885,52.737806970379644]]]}}]}

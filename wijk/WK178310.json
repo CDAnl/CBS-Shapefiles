@@ -1,8 +1,1 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "WK178310 Wijk 10 Ter Heijde", "Description": "WK178310 Wijk 10 Ter Heijde" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.16553350164589, 52.027430450204591, 0.0 ], [ 4.16385160327676, 52.0285069599746, 0.0 ], [ 4.17029775844065, 52.0325220875187, 0.0 ], [ 4.17248723768593, 52.031195913593002, 0.0 ], [ 4.167889659284589, 52.028706462531098, 0.0 ] ] ] } }
-]
-}
+{"type":"FeatureCollection","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"WK_CODE":"WK178310","WK_NAAM":"Wijk 10 Ter Heijde","GM_CODE":"GM1783","GM_NAAM":"Westland","IND_WBI":1,"WATER":"NEE","OAD":1360,"STED":3,"AANT_INW":670,"AANT_MAN":320,"AANT_VROUW":345,"P_00_14_JR":17,"P_15_24_JR":11,"P_25_44_JR":23,"P_45_64_JR":32,"P_65_EO_JR":17,"P_ONGEHUWD":47,"P_GEHUWD":38,"P_GESCHEID":6,"P_VERWEDUW":9,"BEV_DICHTH":5658,"AANTAL_HH":295,"P_EENP_HH":25,"P_HH_Z_K":34,"P_HH_M_K":41,"GEM_HH_GR":2.2,"P_WEST_AL":10,"P_N_W_AL":4,"P_MAROKKO":1,"P_ANT_ARU":0,"P_SURINAM":1,"P_TURKIJE":0,"P_OVER_NW":2,"AO_UIT_TOT":40,"WW_UIT_TOT":10,"WWB_UITTOT":20,"A_SOZ_OW":110,"AUTO_TOT":280,"AUTO_HH":0.9,"AUTO_LAND":2354,"BEDR_AUTO":30,"MOTOR_2W":30,"A_LFTJ6J":80,"A_LFTO6J":200,"A_BST_B":265,"A_BST_NB":15,"OPP_TOT":12,"OPP_LAND":12,"OPP_WATER":0},"geometry":{"type":"Polygon","coordinates":[[[4.168325741751254,52.029694684580015],[4.16596963819048,52.028418653484664],[4.164287765255927,52.02949535950442],[4.17073383073773,52.033510556244046],[4.172923369446522,52.03218434652043],[4.168325741751254,52.029694684580015]]]}}]}

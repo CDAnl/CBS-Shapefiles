@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "WK071522 Wijk 22 Oudelandse Hoeve (Terneuzen)", "Description": "WK071522 Wijk 22 Oudelandse Hoeve (Terneuzen)" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3.85057766413194, 51.320940731408697, 0.0 ], [ 3.85480644977616, 51.315807164517196, 0.0 ], [ 3.85442252659544, 51.314894566111199, 0.0 ], [ 3.851615430387049, 51.313997233617201, 0.0 ], [ 3.84857739154644, 51.313089475130099, 0.0 ], [ 3.8440620973611, 51.3187820954222, 0.0 ], [ 3.8505653486852, 51.320936916217597, 0.0 ] ] ] } }
-]
-}

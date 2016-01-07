@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-                                                                                
-"features": [
-{ "type": "Feature", "properties": { "Name": "BU16720303 Bestemmingsplan Weidedreef", "Description": "BU16720303 Bestemmingsplan Weidedreef" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 4.60782809346912, 52.139196604553497, 0.0 ], [ 4.60999743302573, 52.140024458912301, 0.0 ], [ 4.61147249878385, 52.133718578840003, 0.0 ], [ 4.60806192131142, 52.133358710471597, 0.0 ], [ 4.60637182847735, 52.138566423957499, 0.0 ] ] ] } }
-]
-}
